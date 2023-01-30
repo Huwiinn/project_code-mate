@@ -12,32 +12,28 @@
 
 ### 🖤 **기술 스택**
 
-![Untitled]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1493ee75-61e5-42a2-9cd6-3ac055d149f4/Untitled.png](https://www.notion.so/Code-Mate-3d6ea7df76a0441b91863afa631cce81#147fac087026448285dc3e2970089f1a))
+**TypeScript 쓰려고 노력 | 파이어베이스를 DB로 사용  | 카카오 지도 API 사용**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe05528c-2d6f-4fd4-9936-15e62e17030c/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e3540ea7-f717-427a-8197-54fb88b90b2a/Untitled.png)
-
-                  **TypeScript 쓰려고 노력 | 파이어베이스를 DB로 사용  | 카카오 지도 API 사용**
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7fb7230-c9fe-438b-8b8c-de4da8968f62/Untitled.png)
 
 
 
 
     
-    ### 🤍 기능
+### 🤍 기능
     
-    - 각 **카테고리별**로 작성한 **글 리스트**
-    - 피드를 클릭시 **지도api**를 통해서 정보를 제공받을수 있는 기능과 **댓글기능** 구현
-    - 글 작성 페이지에서 지도api를 통해 위치정보를 제공 가능하도록 구현
-    - **로그인 / 회원가입** 구현 (유효성 검사, 중복가입 방지)
-    - 로그인 시 MY PAGE 이동하면 **프로필 이미지**와 프로필을 수정할 수 있는 설정 부분 구현
-    - My Page에서 내가 쓴 글 리스트 나오도록 구현
-    - 파이어 베이스를 활용한 백엔드 구축
-    - aws로 배포
+- 각 **카테고리별**로 작성한 **글 리스트**
+- 피드를 클릭시 **지도api**를 통해서 정보를 제공받을수 있는 기능과 **댓글기능** 구현
+- 글 작성 페이지에서 지도api를 통해 위치정보를 제공 가능하도록 구현
+- **로그인 / 회원가입** 구현 (유효성 검사, 중복가입 방지)
+- 로그인 시 MY PAGE 이동하면 **프로필 이미지**와 프로필을 수정할 수 있는 설정 부분 구현
+- My Page에서 내가 쓴 글 리스트 나오도록 구현
+- 파이어 베이스를 활용한 백엔드 구축
+- Vercel 배포
     
 
 # Link To CodeMate
 
 https://project-code-mate.vercel.app/
+
+
+### Refactoring 및 Code Develop 필요
