@@ -12,7 +12,7 @@
 
 ### 🖤 **기술 스택**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1493ee75-61e5-42a2-9cd6-3ac055d149f4/Untitled.png)
+![Untitled]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1493ee75-61e5-42a2-9cd6-3ac055d149f4/Untitled.png](https://www.notion.so/Code-Mate-3d6ea7df76a0441b91863afa631cce81#147fac087026448285dc3e2970089f1a))
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe05528c-2d6f-4fd4-9936-15e62e17030c/Untitled.png)
 
@@ -22,39 +22,6 @@
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7fb7230-c9fe-438b-8b8c-de4da8968f62/Untitled.png)
 
-### 💜 **UI 구성**
-
-![Logo](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e550828f-188f-4d3f-97de-0357b410161b/Untitled.png)
-
-Logo
-
-![지도 api](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1568890-e001-4e2d-971d-a4ec9e2aa586/Untitled.png)
-
-지도 api
-
-![Main Page](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4c288dd0-b5c7-4248-a996-2934442526ff/%EC%BD%94%EB%93%9C%EB%A9%94%EC%9D%B4%ED%8A%B8-main.jpg)
-
-Main Page
-
-![Join Modal](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/578b287d-0586-4b44-853c-ccb395e7962b/%EC%BD%94%EB%93%9C%EB%A9%94%EC%9D%B4%ED%8A%B8-Join_Modal.jpg)
-
-Join Modal
-
-![Detail Page](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3636545d-b388-4f13-8657-e999e2365262/%EC%BD%94%EB%93%9C%EB%A9%94%EC%9D%B4%ED%8A%B8-Detail.jpg)
-
-Detail Page
-
-![Login Modal](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/977e7e7d-86ca-4186-acb2-8301626a6a63/%EC%BD%94%EB%93%9C%EB%A9%94%EC%9D%B4%ED%8A%B8-Login_Modal.jpg)
-
-Login Modal
-
-![My Page](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4934fe14-07a4-485c-afd7-29a9069ba1b4/%EC%BD%94%EB%93%9C%EB%A9%94%EC%9D%B4%ED%8A%B8-MyPage.jpg)
-
-My Page
-
-![Profile Modal](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/202cef66-8108-4e14-a257-289adf973bf5/%EC%BD%94%EB%93%9C%EB%A9%94%EC%9D%B4%ED%8A%B8-UserProfile_Modal.jpg)
-
-Profile Modal
 
 
 
@@ -71,9 +38,6 @@ Profile Modal
     - aws로 배포
     
 
-# 🎬 시연영상
-
-[https://www.youtube.com/watch?v=WLHPqeEDpaQ](https://www.youtube.com/watch?v=WLHPqeEDpaQ)
-
+# Link To CodeMate
 
 https://project-code-mate.vercel.app/
